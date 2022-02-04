@@ -1,0 +1,5 @@
+Instructions: You must include a written description of three observable trends based on the data.
+
+There are more male players than "Female" and "Other / Non-Disclosed" players.
+The top percentage of players are in the age bin "20-24". These players make up 44.79% of player population and spend an average of $4.32 per person.
+The top 5 item purchases include "Final Critic, Oathbreaker, Fiery Glass Crusader, Persuasion, and Extraction".
